@@ -12,9 +12,4 @@ git clone https://github.com/Mr4FX/Hulk-ddos-attack
 chmod +x hulk.py
 python hulk.py
 
-### you don't need experince to understand it ...
-
-### More Details
-Contact me : mrafx@cock.li
-
-Or https://www.facebook.com/mrafxx
+### you don't need experince to understand it ..
